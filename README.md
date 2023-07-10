@@ -3,9 +3,10 @@
 - The model built is having accuracy of 77% and sensitivity of 76%.
 
 - Dataset: Leads.csv 
+- Dataset Dictionary: Leads Data Dictionary.xlsx
 - Code: Lead Scoring Case Study.ipynb
-- PPT: LOAN DEFAULTER ANALYSIS.pptx
-- PDF: LOAN DEFAULTER ANALYSIS.pdf
+- PPT: Online Lead Scoring.pdf
+- Summary: Summary.pdf 
 
 ### Problem Statement
 An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses. 
